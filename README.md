@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! I'm Srivarini Mandali</h1>
+[<h1 align="center">Greetings! I'm Srivarini Mandali</h1>
 <h3 align="center">As a zealous Software Development Engineer, I am currently advancing my expertise through a Master's degree in Information Systems at Northeastern University, Boston, with an expected completion in May 2025. My passion lies at the intersection of cloud technologies and web development, where I am dedicated to designing and developing applications that are not only technically advanced but also exceptionally user-focused. This pursuit is driven by a commitment to combine cutting-edge technology with practical, user-centric design, ensuring each project I undertake is both innovative and accessible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarinimandali&label=Profile%20views&color=0e75b6&style=flat" alt="srivarinimandali" /> </p>
