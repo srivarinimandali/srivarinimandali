@@ -7,7 +7,7 @@
 
 - 🌐 Specializing in user-centric web design for engaging and intuitive digital experiences
 
-- My Portfolio [https://mandalisrivarini.wixsite.com/srivarinimandali](https://mandalisrivarini.wixsite.com/srivarinimandali)
+- 🌐 My Portfolio: [mandalisrivarini.wixsite.com/srivarinimandali](https://mandalisrivarini.wixsite.com/srivarinimandali)
 
 - 📫 How to reach me mandali.sr@northeastern.edu
 
