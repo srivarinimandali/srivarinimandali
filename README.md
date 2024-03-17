@@ -1,15 +1,15 @@
 <h1 align="center">Greetings! I'm Srivarini Mandali</h1>
 <h3>As a zealous Software Development Engineer, I am currently advancing my expertise through a Master's degree in Information Systems at Northeastern University, Boston, with an expected completion in May 2025. My passion lies at the intersection of cloud technologies and web development, where I am dedicated to designing and developing applications that are not only technically advanced but also exceptionally user-focused. This pursuit is driven by a commitment to combine cutting-edge technology with practical, user-centric design, ensuring each project I undertake is both innovative and accessible.</h3>
 
-- 🚀 Advancing in cloud solutions and infrastructure as code **with expertise in AWS, Kubernetes, and Terraform**
+- 🚀 Advancing in cloud solutions and infrastructure as code with expertise in AWS, Kubernetes, and Terraform
 
-- 🌱 I’m currently learning **AWS Developer**
+- 🌱 I’m currently learning AWS Developer
 
-- 🌐 Specializing in user-centric web design **for engaging and intuitive digital experiences**
+- 🌐 Specializing in user-centric web design for engaging and intuitive digital experiences
 
 - My Portfolio [https://mandalisrivarini.wixsite.com/srivarinimandali](https://mandalisrivarini.wixsite.com/srivarinimandali)
 
-- 📫 How to reach me **mandali.sr@northeastern.edu**
+- 📫 How to reach me mandali.sr@northeastern.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
