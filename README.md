@@ -1,5 +1,11 @@
 # 💫 About Me:
-As a zealous Software Development Engineer with 3 yrs + experience, I am currently advancing my expertise through a Master’s degree in Information Systems at Northeastern University, Boston, set to graduate in August 2025. I have honed my skills working at prestigious organizations like JP Morgan Chase and McKinsey & Company, where I contributed to building robust, scalable software solutions.<br><br>My passion lies at the intersection of cloud technologies and web development, focusing on designing and developing applications that are both technically advanced and user-focused. This drive is fueled by my commitment to combining cutting-edge technology with practical, user-centric design to deliver innovative and accessible solutions.<br><br>🚀 Advancing expertise in cloud development with a focus on AWS, Google Cloud Platform (GCP), Kubernetes, and Terraform<br>🌱 Currently exploring concepts in AWS and cloud-native architecture<br>🌐 Specializing in intuitive, user-centric web design for engaging digital experiences
+I’m Srivarini Mandali, a Full Stack Software Engineer with over 3 years of experience building scalable, secure, and user-friendly applications. I enjoy working across the stack — from designing backend APIs and microservices to creating responsive frontends and deploying infrastructure in the cloud.
+
+My interests include cloud-native architecture, DevOps automation, and building systems that are reliable and easy to maintain. I’m comfortable working with a wide range of tools and frameworks, and I take pride in writing clean, efficient code.
+
+Whether it’s integrating frontend components, optimizing backend logic, or setting up CI/CD pipelines, I bring a problem-solving mindset and a focus on delivering real value through software.
+
+Thanks for visiting — feel free to check out my projects or connect with me!
 
 
 ## 🌐 Socials:
