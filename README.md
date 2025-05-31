@@ -1,11 +1,9 @@
 # 💫 About Me:
-I’m Srivarini Mandali, a Full Stack Software Engineer with over 3 years of experience building scalable, secure, and user-friendly applications. I enjoy working across the stack — from designing backend APIs and microservices to creating responsive frontends and deploying infrastructure in the cloud.
+Hi, I’m Srivarini Mandali, a Full Stack Software Engineer with 3+ years of experience in developing scalable, secure, and user-friendly applications. I’m passionate about application development, with a strong focus on building systems that are efficient, maintainable, and impactful.
 
-My interests include cloud-native architecture, DevOps automation, and building systems that are reliable and easy to maintain. I’m comfortable working with a wide range of tools and frameworks, and I take pride in writing clean, efficient code.
+I’ve worked at McKinsey & Company and J.P. Morgan Chase, where I contributed to the development of enterprise-grade platforms, automated infrastructure, and improved system reliability through modern DevOps practices. My work spans backend microservices, frontend interfaces, CI/CD pipelines, and cloud-native deployments.
 
-Whether it’s integrating frontend components, optimizing backend logic, or setting up CI/CD pipelines, I bring a problem-solving mindset and a focus on delivering real value through software.
-
-Thanks for visiting — feel free to check out my projects or connect with me!
+I enjoy solving real-world problems with clean, scalable code — whether it’s designing APIs, optimizing performance, or building intuitive UIs. I’m always looking to learn, collaborate, and deliver high-quality software.
 
 
 ## 🌐 Socials:
